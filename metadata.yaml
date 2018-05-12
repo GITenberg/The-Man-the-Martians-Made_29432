@@ -1,0 +1,30 @@
+_repo: The-Man-the-Martians-Made_29432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Long, Frank Belknap
+    birthdate: 1903
+    deathdate: 1994
+    gutenberg_agent_id: '25911'
+    url: http://www.gutenberg.org/2009/agents/25911
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Belknap_Long
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Man the Martians Made
+url: http://www.gutenberg.org/ebooks/29432
