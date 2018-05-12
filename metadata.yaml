@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25911
     wikipedia: http://en.wikipedia.org/wiki/Frank_Belknap_Long
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29432#The-Man-the-Martians-Made
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-07-17'
 gutenberg_type: Text
